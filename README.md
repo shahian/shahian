@@ -21,5 +21,5 @@ understanding of the full software development lifecycle and consistently produc
 meet the needs of diverse clients. I am skilled at collaborating with multicultural teams and can effectively
 communicate complex development concepts to a broad audience. My attention to detail, strong work ethic, and
 analytical problem-solving abilities make me a valuable asset to any development team.
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahian)](https://github.com/shahian/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahian)](https://github.com/shahian/shahian/shahian/blob/main/README.md)
  
