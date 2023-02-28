@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 I’m currently working on Java, I am highly dedicated and motivated to deliver outstanding results. 
+🔭 I’m currently working on Java, I am highly dedicated and motivated to deliver outstanding results. </br>
 🌱 I have a proven history of designing and implementing scalable web applications using Java, Spring Boot, Spring Security, Spring Cloud, Tomcat
-    Apache, SQL, PostgreSQL, and microservices architecture. 
-✨ With over 10 years of experience, I have developed a deep understanding of the full software development lifecycle and consistently produce high-quality software      products that meet the needs of diverse clients. 
-I am skilled at collaborating with multicultural teams and can effectively communicate complex development concepts to a broad audience.
+    Apache, SQL, PostgreSQL, and microservices architecture. </br>
+✨ With over 10 years of experience, I have developed a deep understanding of the full software development lifecycle and consistently produce high-quality software      products that meet the needs of diverse clients. </br>
+I am skilled at collaborating with multicultural teams and can effectively communicate complex development concepts to a broad audience.</br>
 My attention to detail, strong work ethic, and analytical problem-solving abilities make me a valuable asset to any development team.
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahian)](https://github.com/shahian/README)
 
